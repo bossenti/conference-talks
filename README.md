@@ -1,5 +1,8 @@
-# Conference Talks 🎤
-Collection of materials related to conference talks I have participated.
+# Conference Talks & Events🎤
+Collection of materials related to conference talks and talks at other events that I have given.
+
+### 2024
+- Vienna Data Engineering Meetup Oct 2024: [Microsoft Fabric: Data Engineering Game Changer or Just a Fad?](./2024/data-eng-meetup/2024_10_vienna_data_eng_meetup.pdf)
 
 ### 2023
 - Data2Day 2023: [Von Chaos zu Erfolg - Datenqualität beherrschen](./2023/data2day/Loefflath_Bossenmaier__Von_Chaos_zu_Erfolg_Datenqualitaet_beherrschen.pdf)
